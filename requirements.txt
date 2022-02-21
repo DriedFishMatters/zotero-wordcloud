@@ -3,3 +3,4 @@ pillow
 numpy
 cachier
 nltk
+pyzotero
