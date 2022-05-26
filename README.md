@@ -3,7 +3,7 @@
 This is a small utility to download full-text data from a Zotero collection
 and create a wordcloud, using `nltk` and `wordcloud` python libraries.
 
-You will need to supply a Zotero API key and user/library ID, as well as the ID of a collection to work with. You can find the group and collection IDS when navigating a collection in the web library, by looking at the URL in the browser location bar. For example:
+You will need to supply a Zotero API key and user/library ID, as well as the ID of a collection to work with. You can find the group and collection ID when navigating a collection in the web library, by looking at the URL in the browser location bar. For example:
 
 https://www.zotero.org/groups/2183860/dried_fish_matters/collections/27MV6NK5
 
